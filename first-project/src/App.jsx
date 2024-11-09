@@ -1,6 +1,6 @@
-import Todo from "./components/todo";
+import React from 'react';
+import Todo from './components/todo'; 
 import './index.css';
-import Todoitems from "./components/todoitems";
 
 const App = () => {
   return (
