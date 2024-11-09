@@ -1,4 +1,4 @@
-import Todo from "./components/todo";
+import "./components/todo";
 import './index.css';
 
 const App = () => {
