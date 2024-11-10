@@ -1,4 +1,4 @@
-import './CSS/todoitems.css';
+import './CSS/Todoitems.css';
 import checkMark from './assets/check-mark.png';
 import close from "./assets/close.png";
 import checkbox from "./assets/check-box.png";
